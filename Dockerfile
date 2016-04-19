@@ -1,3 +1,3 @@
 FROM ubuntu
-CMD "echo Hello World"
+CMD "bash echo Hello World"
 
