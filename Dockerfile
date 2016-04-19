@@ -1,3 +1,3 @@
-FROM UBUNTU
+FROM ubuntu
 CMD "echo Hello World"
 
